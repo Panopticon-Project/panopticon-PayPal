@@ -1,3 +1,3 @@
 # panopticon-PayPal
 
-https://labworm.com/tool/aletheia
+http://rebecca-ricks.com/paypal-data/
